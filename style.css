@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(56, 206, 56);
+    font-size: 15px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    width: 500px;
+    height: 500px;
+    color: white, 250, 250, 0;
+    background-color: green;
+    background-position: center;
+}
+h1{
+    border: 40px;
+    color: rgb(243, 243, 243);
+    font-size: 40px;
+
+}
